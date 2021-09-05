@@ -3,7 +3,7 @@
 1. data collection
 2. make model to use for generate fingerprint of audio
 ## DataSet
-get 13281 songs from youtube (choose ids from [YouTube-music-video-5M project](https://github.com/keunwoochoi/YouTube-music-video-5M) randomly)<br />
+get 2454 songs from youtube (choose ids from [YouTube-music-video-5M project](https://github.com/keunwoochoi/YouTube-music-video-5M) randomly)<br />
 extract chromagram feature from songs and save them<br />
 you can access the [dataset](https://drive.google.com/drive/folders/134RktD8wmU9JZtqBinw6invJg2GFu5AH?usp=sharing)
 (train and test file for preprocced data)
