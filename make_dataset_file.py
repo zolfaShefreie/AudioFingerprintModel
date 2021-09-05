@@ -17,5 +17,5 @@ if __name__ == '__main__':
     print(features.shape)
 
     # save to one file
-    with open('./all.npy', 'wb') as f:
+    with open('./data.npy', 'wb') as f:
         np.save(f, features)
